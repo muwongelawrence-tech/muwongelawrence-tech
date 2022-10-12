@@ -19,7 +19,7 @@
 - 🔭 <b>Frontend</b> : React.js, Next.js ,Redux Toolkit
 - 👨‍💻 <b>Backend</b> : Express ,Nodejs
 - 🌱 <b>Libraries</b> : pure CSS, TailwindCSS, Material UI, Styled  Components
-- 👨‍💻 <b>Mobile</b> : Flutter, Native Android
+- 👨‍💻 <b>Mobile</b> : Flutter, React Native
 - 🔥 <b>Artificial Intelligence </b> : Machine Learning, Computer Vision with Deep Learning, Tensorflow , Google colab ,
 - 💬 <b>Database</b> : MySQL, MongoDB.
 - 📫 <b>Languages</b> : JavaScript, Python, HTML, CSS, Java,
