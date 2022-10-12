@@ -68,7 +68,7 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
-
+<!-- 
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br> 
 <p align = "center">
@@ -78,7 +78,8 @@
     <img alt="Muwonge Lawrence's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=josephkabba&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   
-</p>
+</p> -->
+
 </details>
 
 <div align="center">
