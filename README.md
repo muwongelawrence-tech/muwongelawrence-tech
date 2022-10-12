@@ -5,12 +5,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
+  <img src="https://raw.githubusercontent.com/icedev528/icedev528/main/Logo.gif" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;5+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;3+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 - 📫 <b>Languages</b> : JavaScript, Python, HTML, CSS, Java,
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=josephkabba&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=muwongelawrence-tech&column=7&theme=onedark"/>
 </p>
 
 ## Languages & Tools
@@ -68,17 +68,23 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
-<!-- 
+
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br> 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=josephkabba&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josephkabba&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=muwongelawrence-tech&show_icons=true&locale=en" alt="muwongelawance-tech">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muwongelawrence-tech&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Ian-Balijawa/Ian-Balijawa/main/code.gif" width="500" height="320" />
+<br />
+<br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muwongelawrence-tech&" alt="muwongelawrence-tech" />
+<br/>
+  
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Muwonge Lawrence's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=josephkabba&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="Muwonge Lawrence's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muwongelawrence-tech&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   
-</p> -->
+</p>
 
 </details>
 
